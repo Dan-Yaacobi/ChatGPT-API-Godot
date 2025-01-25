@@ -1,6 +1,6 @@
 extends Node2D
 
-var API_KEY: String = "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" # Replace with your actual API key
+var API_KEY: String =  # Replace with your actual API key
 var API_URL = "https://api.openai.com/v1/chat/completions"
 var request_counter: int = 0
 
