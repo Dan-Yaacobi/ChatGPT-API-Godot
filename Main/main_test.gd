@@ -1,6 +1,6 @@
 extends Node2D
 
-var API_KEY: String =  # Replace with your actual API key
+var API_KEY: String # Replace with your actual API key
 var API_URL = "https://api.openai.com/v1/chat/completions"
 var request_counter: int = 0
 
